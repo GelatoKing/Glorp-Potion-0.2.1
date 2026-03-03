@@ -1,0 +1,5 @@
+{
+  "name": "Glorp Potion V0.2",
+  "description": "A high-performance cyberpunk-themed image transformation engine powered by Gemini 2.5 Flash Image. Upload or paste images and inject transformation prompts to synthesize new visual data.",
+  "requestFramePermissions": []
+}
